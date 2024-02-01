@@ -5,5 +5,17 @@ Visualisation
 * over view map with specific post code layer
 * either find out what fraction is or delete
 * coloured markers depending on how many in area are HA owned or not like the bike stand demo
-* 
+
+
+Road Map
+*Clean data
+   ** Import into database export as JSON
+
+*Build a map
+*build layers for map
+*build polygon layers
+*build markers layer
+*build web page w/drop down and graphs
+*build geojson
+
 
