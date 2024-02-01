@@ -5,6 +5,7 @@ Visualisation
 * over view map with specific post code layer
 * either find out what fraction is or delete
 * coloured markers depending on how many in area are HA owned or not like the bike stand demo
+* Drop on map for postcode and to zoom in on each specific area
 
 
 Road Map
