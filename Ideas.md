@@ -10,8 +10,7 @@ Visualisation
 
 Road Map
 *Clean data
-   ** Import into database export as JSON
-
+*Import into database export as JSON
 *Build a map
 *build layers for map
 *build polygon layers
