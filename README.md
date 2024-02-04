@@ -1,5 +1,5 @@
 # Project-3-UoB--Glasgow-Housing-Association-Properties
-kldsjsjdbns
+
 ![Title Image](ReadMe Resources/glasgow-skyline-bw-wee.webp)
 
 #Project objective:
