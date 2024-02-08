@@ -12,7 +12,8 @@ This project aims to showcase the skills we have learned in the University of Bi
 
 We obtained our dataset from Kaggle and it provides a complete overview of the properties in Glasgow ownership split  
 between the Housing Association and others. While this dataset contained a "cleaned" version of the data, we decided  
-to use to base dataset and demonstrate our data-cleaning skills.
+to use to base dataset and demonstrate our data-cleaning skills. A link to the dataset can be found [here](https://www.kaggle.com/datasets/dimodimchev/glasgow-housing-association-properties) and also in
+the resources folder.
 
 
 
