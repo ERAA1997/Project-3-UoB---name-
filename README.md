@@ -1,4 +1,4 @@
-# Project-3-UoB--Glasgow-Housing-Association-Properties
+# Project 3: An investigation into the split of property ownership in Glasgow, Scotland
 
 ![Title Image](ReadMe_Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
 
