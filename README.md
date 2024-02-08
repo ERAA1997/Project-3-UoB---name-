@@ -2,13 +2,18 @@
 
 ![Title Image](ReadMe Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.jpg)
 
-# Project objective:
+# Project objective:  
+This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp.
 
-# Dataset
+
+
+# Dataset  
+We obtained our dataset from Kaggle and it provides a complete overview of the properties in Glasgows owned
 
 ### Overview
 
-### Methodology
+### Methodology  
+The first step 
 
 
 
