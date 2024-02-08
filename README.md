@@ -1,21 +1,32 @@
-# Project-3-UoB--Glasgow-Housing-Association-Properties
+# Project 3: An investigation into the split of property ownership in Glasgow, Scotland
 
-![Title Image](ReadMe Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.jpg)
+![Title Image](ReadMe_Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
 
-#Project objective:
+# Project objective:  
+This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp.  
 
-#Dataset
 
-###Overview
+### Overview
 
-###Methodology
+# Dataset  
+
+We obtained our dataset from Kaggle and it provides a complete overview of the properties in Glasgow ownership split  
+between the Housing Association and others. While this dataset contained a "cleaned" version of the data, we decided  
+to use to base dataset and demonstrate our data-cleaning skills. A link to the dataset can be found [here](https://www.kaggle.com/datasets/dimodimchev/glasgow-housing-association-properties) and also in
+the resources folder. A limitation of this dataset is that the data was
+
+
+
+### Methodology  
+
+After selecting our Kaggle dataset 
 
 
 
 ###Resources
 
 
-### Contributors
+### Collaborators
 
 * [Sadek Ahmed](https://github.com/Sadek-Ahmed16)  
 * [Daniel Hughes](https://github.com/DanielHughes1580)  
