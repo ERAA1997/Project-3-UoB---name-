@@ -2,13 +2,13 @@
 
 ![Title Image](ReadMe Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.jpg)
 
-#Project objective:
+# Project objective:
 
-#Dataset
+# Dataset
 
-###Overview
+### Overview
 
-###Methodology
+### Methodology
 
 
 
