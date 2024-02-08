@@ -3,24 +3,29 @@
 ![Title Image](ReadMe_Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
 
 # Project objective:  
-This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp.
+This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp.  
 
-
-
-# Dataset  
-We obtained our dataset from Kaggle and it provides a complete overview of the properties in Glasgows owned
 
 ### Overview
 
+# Dataset  
+
+We obtained our dataset from Kaggle and it provides a complete overview of the properties in Glasgow ownership split  
+between the Housing Association and others. While this dataset contained a "cleaned" version of the data, we decided  
+to use to base dataset and demonstrate our data-cleaning skills.
+
+
+
 ### Methodology  
-The first step 
+
+After selecting our Kaggle dataset 
 
 
 
 ###Resources
 
 
-### Contributors
+### Collaborators
 
 * [Sadek Ahmed](https://github.com/Sadek-Ahmed16)  
 * [Daniel Hughes](https://github.com/DanielHughes1580)  
