@@ -1,6 +1,6 @@
 # Project-3-UoB--Glasgow-Housing-Association-Properties
 
-![Title Image](ReadMe Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
+![Title Image](ReadMe_Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
 
 # Project objective:  
 This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp.
