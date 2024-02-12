@@ -6,7 +6,7 @@
 
 # Project objective:  
 This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp
-to date.  
+to date. 
 
 # Overview
 
