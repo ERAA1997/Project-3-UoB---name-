@@ -22,17 +22,27 @@ the resources folder. A limitation of this dataset is that the data was that it 
 ### Data review and cleaning
 
 After selecting our Kaggle dataset we used a Jupyter Notebook and Pandas. Using Pandas we could quickly and easily identify the
-completeness of data. The dataset was read into Pandas using the _read_csv_ function. The cleaned data was the exported as a new CSV 
+completeness of data. The dataset was read into Pandas using the _read_csv_ function. The cleaned data was then exported as a new CSV 
 to be used later.
 
-In addition to the Kaggle dataset, we required a geoJSON file of the Glasgow postcodes
+In addition to the Kaggle dataset, we required a geoJSON file of the Glasgow postcodes to plot
+
+The previously cleaned CSV of our Kaggle dataset was then merged with the geoJSON to create an update geoJSON with the additional data being
+callable within it
+
+## Database
+
+As a final addition to our project, we used Flask to connect our SQLite database.
 
 
+## Visualisations
 
-###Resources
+Our Choropleth map displays the differences 
+
+### Resources
 
 
-### Collaborators
+## Collaborators
 
 * [Sadek Ahmed](https://github.com/Sadek-Ahmed16)  
 * [Daniel Hughes](https://github.com/DanielHughes1580)  
