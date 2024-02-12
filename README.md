@@ -37,7 +37,7 @@ As a final addition to our project, we used Flask to connect our SQLite database
 
 ## Visualisations
 
-Our Choropleth map displays the differences 
+We decided to use a Choropleth map to visualize the differences in Housing Association ownership. 
 
 ### Resources
 For this project we utilized many sources, please find them below;
