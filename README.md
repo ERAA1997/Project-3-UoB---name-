@@ -6,20 +6,24 @@
 This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp
 to date.  
 
-### Overview
+# Overview
 
-# Dataset  
+## Dataset  
 
 We obtained our dataset from Kaggle and it provides a complete overview of the properties within Glasgow's postcodes
 by ownership, split between the Housing Association and others. While this dataset contained a "cleaned" version of the data, 
-we decided to use to base dataset and demonstrate our data-cleaning skills. A link to the dataset can be found [here](https://www.kaggle.com/datasets/dimodimchev/glasgow-housing-association-properties) and also in
-the resources folder. A limitation of this dataset is that the data was that it was last update in May 2022.
+we decided to use the base dataset and demonstrate our data-cleaning skills. A link to the dataset can be found [here](https://www.kaggle.com/datasets/dimodimchev/glasgow-housing-association-properties) and also in
+the resources folder. A limitation of this dataset is that the data was that it was last updated in May 2022.
 
+## Methodology  
 
+### Data review and cleaning
 
-### Methodology  
+After selecting our Kaggle dataset we used a Jupyter Notebook and Pandas. Using Pandas we could quickly and easily identify the
+completeness of data. The dataset was read into Pandas using the _read_csv_ function. The cleaned data was the exported as a new CSV 
+to be used later.
 
-After selecting our Kaggle dataset 
+In addition to the Kaggle dataset, we required a geoJSON file of the Glasgow postcodes
 
 
 
