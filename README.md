@@ -3,17 +3,17 @@
 ![Title Image](ReadMe_Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
 
 # Project objective:  
-This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp.  
-
+This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp
+to date.  
 
 ### Overview
 
 # Dataset  
 
-We obtained our dataset from Kaggle and it provides a complete overview of the properties in Glasgow ownership split  
-between the Housing Association and others. While this dataset contained a "cleaned" version of the data, we decided  
-to use to base dataset and demonstrate our data-cleaning skills. A link to the dataset can be found [here](https://www.kaggle.com/datasets/dimodimchev/glasgow-housing-association-properties) and also in
-the resources folder. A limitation of this dataset is that the data was
+We obtained our dataset from Kaggle and it provides a complete overview of the properties within Glasgow's postcodes
+by ownership, split between the Housing Association and others. While this dataset contained a "cleaned" version of the data, 
+we decided to use to base dataset and demonstrate our data-cleaning skills. A link to the dataset can be found [here](https://www.kaggle.com/datasets/dimodimchev/glasgow-housing-association-properties) and also in
+the resources folder. A limitation of this dataset is that the data was that it was last update in May 2022.
 
 
 
