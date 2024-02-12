@@ -2,6 +2,8 @@
 
 ![Title Image](ReadMe_Resources/glasgow-skyline-bw-wee-ezgif.com-webp-to-jpg-converter.png)
 
+#### image credit: [Adrian McMurchie](https://amcmurchie.com/product/glasgow-skyline-monochrome/)
+
 # Project objective:  
 This project aims to showcase the skills we have learned in the University of Birmingham's Data Analytics Bootcamp
 to date.  
