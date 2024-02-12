@@ -40,7 +40,13 @@ As a final addition to our project, we used Flask to connect our SQLite database
 Our Choropleth map displays the differences 
 
 ### Resources
+For this project we utilized many sources, please find them below;
 
+[SQL](https://www.sqlite.org/index.html)  
+[Flask API](https://flask.palletsprojects.com/en/3.0.x/)  
+[Chloropleth](https://plotly.com/python/choropleth-maps/)  
+[Leaflet](https://leafletjs.com/reference.html)  
+[D3](https://d3js.org/) 
 
 ## Collaborators
 
