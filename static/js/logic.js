@@ -8,7 +8,7 @@ var tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
 
 L.tileLayer(tileUrl, {
-    attribution: '© OpenStreetMap contributors'
+    attribution: '© OpenStreetMap contributors',
 }).addTo(map);
 
 
