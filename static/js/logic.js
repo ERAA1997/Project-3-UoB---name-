@@ -1,7 +1,7 @@
 var glasgowCoordinates = [55.86559, -4.26029];
 
 
-var map = L.map('map').setView(glasgowCoordinates, 13);
+var map = L.map('map').setView(glasgowCoordinates, 11);
 
 // Adjusted tile URL pattern
 var tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
@@ -46,7 +46,7 @@ d3.json(url).then(function(data) {
 });
 
 // Legend
-var legend = L.control({ position: 'bottomright' });
+var legend = L.control({ position: 'topright' });
 
 legend.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'info legend'),
