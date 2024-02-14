@@ -62,4 +62,23 @@ function changePostCode() {
 
 };
 
+
+function barchart() {
+    d3.json(url).then((data) => {
+        let allData = data.features;
+
+        let xvar = allData.map(feature => feature.properties.HA_Percentage);
+        let yvar = allData.map(feature => feature.properties.name);
+        console.log(yvar);
+        var data = [{
+            type: 'bar',
+            x: xvar,
+            y: yvar,
+            orientation: 'h'
+        }];
+
+        Plotly.newPlot('bar', data);
+    });
+}
+
 init();
