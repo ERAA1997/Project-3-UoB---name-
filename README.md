@@ -71,9 +71,9 @@ For this project we utilized many sources, please find them below;
 [Flask API](https://flask.palletsprojects.com/en/3.0.x/)  
 [Chloropleth](https://plotly.com/python/choropleth-maps/)  
 [Leaflet](https://leafletjs.com/reference.html)  
-[D3](https://d3js.org/) 
-
+[D3](https://d3js.org/)  
 [GeoJson](https://github.com/missinglink/uk-postcode-polygons/blob/master/geojson/GL.geojson)
+
 
 ## Collaborators
 
