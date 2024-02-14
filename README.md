@@ -11,7 +11,7 @@ to date.
 # Overview
 
 ## Purpose
-The purpose of this project was to analysis how much property is owned by the housing association in Glasgow. 
+The purpose of this project was to analysis how much propertyof the housing property is owned by the housing association in the city of Glasgow. Below you will find our process on how we went about this task and the steps we have taken 
 
 
 ## Dataset  
