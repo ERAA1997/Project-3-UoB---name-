@@ -72,7 +72,7 @@ For this project we utilized many sources, please find them below;
 [Chloropleth](https://plotly.com/python/choropleth-maps/)  
 [Leaflet](https://leafletjs.com/reference.html)  
 [D3](https://d3js.org/)  
-[GeoJson](https://github.com/missinglink/uk-postcode-polygons/blob/master/geojson/GL.geojson)
+[GeoJson](https://github.com/missinglink/uk-postcode-polygons/blob/master/geojson/G.geojson)
 
 
 ## Collaborators
