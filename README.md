@@ -48,9 +48,11 @@ There are a few ways in which we decided to visualise our data. As we were deali
 
 ## Using our project
 
+### Initalising 
 To initalise our project first you will need to run the "app.py" programe in a fresh terminal. Once initalised you will be given a web address like the one we have highlighted, paste this into a fresh tab in a browser to begin.
 ![Terminal Image](ReadMe_Resources/terminal_launch.png)
 
+### Dashboard
 Once in you will be presented with our dashboard. From here you can click either of the below images to be taken to the diferent sections of our page. The picture on the left will take you to our interactive charts. The picture on the right will take you to our interactive choropleth map.
 ![Dashboard Image](ReadMe_Resources/dashboard.png)
 
