@@ -10,6 +10,10 @@ to date.
 
 # Overview
 
+## Purpose
+The purpose of this project was to analysis how much property is owned by the housing association in Glasgow. 
+
+
 ## Dataset  
 
 We obtained our dataset from Kaggle and it provides a complete overview of the properties within Glasgow's postcodes
