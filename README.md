@@ -57,8 +57,8 @@ Once in you will be presented with our dashboard. From here you can click either
 ![Dashboard Image](ReadMe_Resources/dashboard.png)
 
 ### Interactive Charts
-If you clicked on the interactive charts section this is the screen you will be presented with. From here simply select the post code you wish to view the data for and the chart will update for you to display the relevant data!
-![Chart Image](ReadMe_Resources/pie_chart.png)
+If you clicked on the interactive charts section this is the screen you will be presented with. As you can see you will be presented with two different charts. The first being our interactive pie charts. From here simply select the post code you wish to view the data for and the pie chart will update for you to display the relevant data! To the right you will find our static bar chart. This feature displays all the postcodes Housing Association ownership percentages in an easy to read bar chart! 
+![Chart Image](ReadMe_Resources/chart.png)
 
 ### Choropleth
 If you clicked on the choropleth section this is the screen you will be presented with. You will be presented with a choropleth map of Glasgow with with pop ups that display any relevant information to the area you have selected!
