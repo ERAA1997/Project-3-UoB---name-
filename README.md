@@ -23,7 +23,7 @@ the resources folder. A limitation of this dataset is that the data was that it 
 
 ## Methodology  
 
-### Data review and cleaning
+### Data Review and Cleaning
 
 After selecting our Kaggle dataset we used a Jupyter Notebook and Pandas. Using Pandas we could quickly and easily identify the
 completeness of data. The dataset was read into Pandas using the _read_csv_ function. The cleaned data was then exported as a new CSV 
@@ -34,19 +34,19 @@ In addition to the Kaggle dataset, we required a geoJSON file of the Glasgow pos
 The previously cleaned CSV of our Kaggle dataset was then merged with the geoJSON to create an update geoJSON with the additional data being
 callable within it
 
-### Ethical implications of our data
+### Ethical Implications of our Data
 As our project involved us handling sensitive data such as postcodes, geographical coordinates, and other sensitive locational data, prioritizing our ethical responsibilities became the most important thing we had to take into account throughout this project. We had an ethical responsibility to make sure that the sensitive, personal information we were given was handled correctly, filtering out any and all personal details. Ensuring that we followed any and all relevant legal and ethical restrictions pertaining to us was always a top priority when dealing with such a sensitive dataset as this.
 
-## Database
+### Connecting to a Database
 
-As a final addition to our project, we used Flask to connect our SQLite database.
+As a final addition to our project, we used Flask to connect our SQLite database. This would further  help allow us to manipulate the data to suit our needs in the future
 
 
 ## Visualisations
 
 There are a few ways in which we decided to visualise our data. As we were dealing with a locational data set a choropleth map seemed a great way to visualize our findings. Our choropleth shows the differences in Housing Association ownership compared to non housing association ownership in an interactive and visually appealing way. Another way we had decided to display our information is in the form of an interactive pie chart; displaying a breakdown of any postcode chosen from our interactive drop down box.
 
-## Using our project
+## Utilizing our Projec
 
 ### Initalising 
 To initalise our project first you will need to run the "app.py" programe in a fresh terminal. Once initalised you will be given a web address like the one we have highlighted, paste this into a fresh tab in a browser to begin.
