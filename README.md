@@ -46,7 +46,7 @@ As a final addition to our project, we used Flask to connect our SQLite database
 
 There are a few ways in which we decided to visualise our data. As we were dealing with a locational data set a choropleth map seemed a great way to visualize our findings. Our choropleth shows the differences in Housing Association ownership compared to non housing association ownership in an interactive and visually appealing way. Another way we had decided to display our information is in the form of an interactive pie chart; displaying a breakdown of any postcode chosen from our interactive drop down box.
 
-## Utilizing our Projec
+## Utilizing our Project
 
 ### Initalising 
 To initalise our project first you will need to run the "app.py" programe in a fresh terminal. Once initalised you will be given a web address like the one we have highlighted, paste this into a fresh tab in a browser to begin.
