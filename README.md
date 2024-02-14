@@ -10,6 +10,10 @@ to date.
 
 # Overview
 
+## Purpose
+The purpose of this project was to analysis how much propertyof the housing property is owned by the housing association in the city of Glasgow. Below you will find our process on how we went about this task and the steps we have taken 
+
+
 ## Dataset  
 
 We obtained our dataset from Kaggle and it provides a complete overview of the properties within Glasgow's postcodes
@@ -25,10 +29,13 @@ After selecting our Kaggle dataset we used a Jupyter Notebook and Pandas. Using 
 completeness of data. The dataset was read into Pandas using the _read_csv_ function. The cleaned data was then exported as a new CSV 
 to be used later.
 
-In addition to the Kaggle dataset, we required a geoJSON file of the Glasgow postcodes to plot
+In addition to the Kaggle dataset, we required a geoJSON file of the Glasgow postcodes to help us later plot our choropleth map. 
 
 The previously cleaned CSV of our Kaggle dataset was then merged with the geoJSON to create an update geoJSON with the additional data being
 callable within it
+
+### Ethical implications of our data
+As our project involved us handling sensitive data such as postcodes, geographical coordinates, and other sensitive locational data, prioritizing our ethical responsibilities became the most important thing we had to take into account throughout this project. We had an ethical responsibility to make sure that the sensitive, personal information we were given was handled correctly, filtering out any and all personal details. Ensuring that we followed any and all relevant legal and ethical restrictions pertaining to us was always a top priority when dealing with such a sensitive dataset as this.
 
 ## Database
 
@@ -37,7 +44,7 @@ As a final addition to our project, we used Flask to connect our SQLite database
 
 ## Visualisations
 
-We decided to use a Choropleth map to visualize the differences in Housing Association ownership. 
+There are a few ways in which we decided to visualise our data. As we were dealing with a locational data set a choropleth map seemed a great way to visualize our findings. Our choropleth shows the differences in Housing Association ownership compared to non housing association ownership in an interactive and visually appealing way. 
 
 ### Resources
 For this project we utilized many sources, please find them below;
