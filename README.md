@@ -54,6 +54,14 @@ To initalise our project first you will need to run the "app.py" programe in a f
 Once in you will be presented with our dashboard. From here you can click either of the below images to be taken to the diferent sections of our page. The picture on the left will take you to our interactive charts. The picture on the right will take you to our interactive choropleth map.
 ![Dashboard Image](ReadMe_Resources/dashboard.png)
 
+### Interactive Charts
+If you clicked on the interactive charts section this is the screen you will be presented with. From here simply select the post code you wish to view the data for and the chart will update for you to display the relevant data!
+![Chart Image](ReadMe_Resources/pie_chart.png)
+
+### Choropleth
+If you clicked on the choropleth section this is the screen you will be presented with. You will be presented with a choropleth map of Glasgow with with pop ups that display any relevant information to the area you have selected!
+![Map Image](ReadMe_Resources/choropleth.png)
+
 ### Resources
 For this project we utilized many sources, please find them below;
 
