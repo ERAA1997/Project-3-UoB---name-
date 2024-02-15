@@ -53,3 +53,30 @@ function changePostCode(selectedPostCode) {
 
 // Call init to load the data and populate the pie chart initially
 init();
+
+function barchart() {
+    d3.json(url).then((data) => {
+        let allData = data.features;
+
+        let xvar = allData.map(feature => feature.properties.HA_Percentage);
+        let yvar = allData.map(feature => feature.properties.name);
+        console.log(yvar);
+
+        var trace = {
+            x: xvar,
+            y: yvar,
+            type: 'bar',
+            orientation: 'h'
+        };
+
+        var layout = {
+            title: 'HA ownership percentage by Postcode',
+            height: 700,
+            width: 700
+        };
+
+        Plotly.newPlot('bar', [trace], layout);
+    });
+};
+
+barchart();
